@@ -1,0 +1,11 @@
+{
+  "name": "studiomoderna/sm-modulename",
+  "description": "Modulename description",
+  "type": "magento2-module",
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "StudioModerna\\Modulename\\": ""
+    }
+  }
+}
