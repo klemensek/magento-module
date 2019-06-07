@@ -2,6 +2,8 @@
   "name": "studiomoderna/sm-modulename",
   "description": "Modulename description",
   "type": "magento2-module",
+  "minimum-stability": "dev",
+  "require": {},
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
